@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pranjalsaxena5
 - 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning the MEAN stack.
+- 🌱 I’m currently learning the MERN stack.
 - 📫 How to reach me github.com/pranjalsaxena5 & linkedin.com/pranjalsaxena5
 
 <!---
