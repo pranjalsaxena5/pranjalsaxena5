@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pranjalsaxena5
-- 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning the MERN stack.
+- 👀 I’m interested in Full Stack Web Development.
+- 🌱 I’m currently working as a Java Developer.
 - 📫 How to reach me github.com/pranjalsaxena5 & linkedin.com/pranjalsaxena5
 
 <!---
